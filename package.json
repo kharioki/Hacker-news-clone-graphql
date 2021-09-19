@@ -23,7 +23,11 @@
   },
   "homepage": "https://github.com/kharioki/Hacker-news-clone-graphql#readme",
   "dependencies": {
+    "@prisma/client": "^3.0.2",
     "apollo-server": "^3.3.0",
     "graphql": "^15.5.3"
+  },
+  "devDependencies": {
+    "prisma": "^3.0.2"
   }
 }
